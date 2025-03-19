@@ -1,0 +1,2 @@
+--index-url https://internal-artifactory.zepp.top/simple/
+HMLogan==3.4.12
