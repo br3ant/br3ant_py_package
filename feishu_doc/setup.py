@@ -10,7 +10,7 @@ setup(
     description="飞书Base Doc的封装",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="",
+    url="https://github.com/br3ant/br3ant_py_package/tree/main/feishu_doc",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
